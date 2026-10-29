@@ -2,6 +2,8 @@
 
 # 🎃 万圣节游戏合集 — 12 款免费浏览器小游戏
 
+**[🎃 在线游玩全部 12 款万圣节游戏 →](https://ashintop.github.io/halloween-games/)**
+
 **Midnight Candy Club · 午夜糖果俱乐部**收录十二款温暖又有一点神秘的万圣节小游戏：南瓜数字谜题、鬼屋牌局、糖果方块、镜像幽灵、怪物音乐、节奏演奏与小小的 3D 冒险。点击合集中的卡片进入播放器，也可以直接使用下面每款游戏的在线链接。👻
 
 喜欢这间小俱乐部吗？**[给 halloween-games 点一颗 Star](https://github.com/AshinTop/halloween-games)**，方便下次找到，也能关注后续改进。
@@ -137,7 +139,7 @@ node --check club.js
 
 把仓库根目录作为静态目录发布即可。使用 **GitHub Pages** 时，选择 **Deploy from a branch → main → /(root)**，并保留 `.nojekyll`。使用 **Cloudflare Pages** 时，按静态 HTML 项目配置，发布包含 `index.html` 的目录；如需构建命令，可使用不执行构建的 `exit 0`。
 
-合集的最终网址由托管服务在部署后给出。上面十二款游戏的链接已经指向实际在线的 Cloudflare 地址。合集资源采用相对路径，也可以部署在 GitHub Pages 的仓库子路径下。
+合集已通过 GitHub Pages 发布：**[打开午夜糖果俱乐部](https://ashintop.github.io/halloween-games/)**。上面十二款游戏的链接已经指向实际在线的 Cloudflare 地址。合集资源采用相对路径，也可以部署在 GitHub Pages 的仓库子路径下。
 
 托管参考文档: [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site) · [Cloudflare Pages — Static HTML](https://developers.cloudflare.com/pages/framework-guides/deploy-anything/).
 

@@ -2,6 +2,8 @@
 
 # 🎃 Jogos de Halloween — 12 minijogos grátis para navegador
 
+**[🎃 Jogue os 12 jogos de Halloween on-line →](https://ashintop.github.io/halloween-games/)**
+
 **Midnight Candy Club** reúne doze jogos acolhedores de Halloween: números de abóbora, paciência assombrada, blocos de doces, fantasmas espelhados, música de monstros, ritmo e pequenas aventuras 3D. Escolha um cartão na página da coleção ou abra qualquer jogo pelos links abaixo. 👻
 
 Gostou do clube? **[Dê uma estrela ao halloween-games](https://github.com/AshinTop/halloween-games)** para encontrá-lo de novo e acompanhar as melhorias.
@@ -137,7 +139,7 @@ node --check club.js
 
 Publique a raiz do repositório como um diretório estático. No **GitHub Pages**, escolha **Deploy from a branch → main → /(root)** e mantenha `.nojekyll`. No **Cloudflare Pages**, use a configuração de HTML estático e publique o diretório que contém `index.html`; se precisar de um comando sem compilação, use `exit 0`.
 
-O serviço de hospedagem fornece a URL final da coleção depois da publicação. Os doze links acima já apontam para os jogos ativos na Cloudflare. Os arquivos relativos também funcionam no subcaminho de um repositório do GitHub Pages.
+A coleção já está publicada no GitHub Pages: **[Abrir Midnight Candy Club](https://ashintop.github.io/halloween-games/)**. Os doze links acima já apontam para os jogos ativos na Cloudflare. Os arquivos relativos também funcionam no subcaminho de um repositório do GitHub Pages.
 
 Documentação da hospedagem: [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site) · [Cloudflare Pages — Static HTML](https://developers.cloudflare.com/pages/framework-guides/deploy-anything/).
 

@@ -2,6 +2,8 @@
 
 # 🎃 ハロウィンゲーム集 — ブラウザーで遊べる無料ミニゲーム12作品
 
+**[🎃 ハロウィンゲーム全12作品をオンラインで遊ぶ →](https://ashintop.github.io/halloween-games/)**
+
 **Midnight Candy Club** は、カボチャの数字パズル、幽霊のソリティア、お菓子のブロック、鏡の幽霊、モンスター音楽、リズムゲーム、小さな3D冒険を集めた、やさしい雰囲気のハロウィンゲーム集です。コレクションのカードからプレイヤーを開くか、下の各ゲームへのリンクで遊べます。👻
 
 クラブが気に入ったら、**[halloween-games に Star を付けてください](https://github.com/AshinTop/halloween-games)**。また訪れたり、今後の改良を見つけたりしやすくなります。
@@ -137,7 +139,7 @@ node --check club.js
 
 リポジトリのルートを静的ディレクトリとして公開します。**GitHub Pages** では **Deploy from a branch → main → /(root)** を選び、`.nojekyll` を残してください。**Cloudflare Pages** では静的 HTML の設定で `index.html` を含むディレクトリを公開します。ビルド不要のコマンドが必要な場合は `exit 0` を使えます。
 
-コレクションの最終 URL はデプロイ後にホスティングサービスから提供されます。上の12作品へのリンクは、すでに公開されている Cloudflare のゲームを指しています。相対パスの資産は GitHub Pages のリポジトリ配下でも利用できます。
+コレクションは GitHub Pages で公開中です：**[Midnight Candy Club を開く](https://ashintop.github.io/halloween-games/)**。上の12作品へのリンクは、すでに公開されている Cloudflare のゲームを指しています。相対パスの資産は GitHub Pages のリポジトリ配下でも利用できます。
 
 ホスティングの参考資料: [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site) · [Cloudflare Pages — Static HTML](https://developers.cloudflare.com/pages/framework-guides/deploy-anything/).
 
