@@ -115,7 +115,7 @@ The images above are actual game-interface captures hosted with each game. Each 
 
 ## 🌙 Playing from the club
 
-Click a game card to open a full-window player. **Back** or **Esc** returns to the collection, and **Open separately** opens the same Cloudflare game in its own tab. Closing the player unloads the frame so its music stops. Modified link clicks still work normally.
+Click a game card to open a full-window player. **Back** returns to the collection, and **Open separately** opens the same Cloudflare game in its own tab. Closing the player unloads the frame so its music stops. Modified link clicks still work normally.
 
 Use each game’s visible buttons or its documented keyboard controls. Music starts after a player action. Progress is stored by each game in browser storage when available; embedded storage can be isolated by browser settings. If you want to use the game directly, choose Open separately. The catalogue’s twelve real links are present in the original HTML, so they remain available without the collection script; the games themselves need JavaScript.
 

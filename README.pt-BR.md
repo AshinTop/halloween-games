@@ -115,7 +115,7 @@ As imagens acima são capturas reais das interfaces e ficam hospedadas junto de 
 
 ## 🌙 Jogando no clube
 
-Clique em um cartão para abrir a janela do jogo em toda a área do navegador. **Back** ou **Esc** volta à coleção; **Open separately** abre o mesmo jogo da Cloudflare em outra aba. Fechar a janela do jogo descarrega o iframe e interrompe sua música. Cliques com teclas modificadoras mantêm o comportamento normal do navegador.
+Clique em um cartão para abrir a janela do jogo em toda a área do navegador. **Back** volta à coleção; **Open separately** abre o mesmo jogo da Cloudflare em outra aba. Fechar a janela do jogo descarrega o iframe e interrompe sua música. Cliques com teclas modificadoras mantêm o comportamento normal do navegador.
 
 Use os botões visíveis ou os controles de teclado indicados em cada jogo. A música começa depois de uma ação do jogador. Cada jogo salva o progresso no armazenamento do navegador quando disponível; as configurações podem isolar o armazenamento de iframes. Escolha Open separately para acessar diretamente. Os doze links reais já estão no HTML original e continuam acessíveis sem o script da coleção; os jogos precisam de JavaScript para funcionar.
 

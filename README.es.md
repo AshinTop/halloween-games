@@ -115,7 +115,7 @@ Las imágenes anteriores son capturas reales de las interfaces y se alojan junto
 
 ## 🌙 Jugar desde el club
 
-Pulsa una tarjeta para abrir el reproductor a tamaño de ventana. **Back** o **Esc** vuelve a la colección; **Open separately** abre el mismo juego de Cloudflare en otra pestaña. Al cerrar el reproductor se descarga el iframe y se detiene su música. Los clics con teclas modificadoras conservan su comportamiento habitual.
+Pulsa una tarjeta para abrir el reproductor a tamaño de ventana. **Back** vuelve a la colección; **Open separately** abre el mismo juego de Cloudflare en otra pestaña. Al cerrar el reproductor se descarga el iframe y se detiene su música. Los clics con teclas modificadoras conservan su comportamiento habitual.
 
 Usa los botones visibles o los controles de teclado indicados por cada juego. La música comienza tras una acción del jugador. Cada juego guarda su progreso en el almacenamiento del navegador cuando está disponible; la configuración del navegador puede aislar el almacenamiento de un iframe. Elige Open separately para acceder directamente. Los doce enlaces reales ya están en el HTML original y siguen disponibles sin el script de la colección; los juegos sí necesitan JavaScript.
 
